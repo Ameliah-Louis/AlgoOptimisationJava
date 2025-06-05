@@ -42,7 +42,6 @@ import java.util.Scanner;
 // Compte et affiche le nombre de fois que le mot apparaît dans la phrase
 // Programme qui demande une phrase et un mot à l’utilisateur,
 // puis compte le nombre de fois que ce mot apparaît dans la phrase.
-import java.util.Scanner;
 
 public class OccurrencesMot {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 // CODE INITIAL A CORRIGER
 //public class InverserChaine {
